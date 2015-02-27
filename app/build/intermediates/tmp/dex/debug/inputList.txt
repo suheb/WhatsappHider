@@ -1,0 +1,5 @@
+/home/suheb/android-studio-projects/WhatsappHider/app/build/intermediates/classes/debug
+/home/suheb/android-studio-projects/WhatsappHider/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-50ac3778651bcde9788170b6ab6bef7f5efa92c2.jar
+/home/suheb/android-studio-projects/WhatsappHider/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-ac7fe2dbdf99efd830e1552ed83220a8907281fa.jar
+/home/suheb/android-studio-projects/WhatsappHider/app/build/intermediates/pre-dexed/debug/classes-af1f73aaa2ac1c454455e5ea255eef198a4ccaa0.jar
+/home/suheb/android-studio-projects/WhatsappHider/app/build/intermediates/pre-dexed/debug/classes-385453a617622a0b79a5e32a80d14b8e631e666c.jar

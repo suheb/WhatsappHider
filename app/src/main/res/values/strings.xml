@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">WhatsApp Last Seen Hider</string>
+    <string name="menu_about">About</string>
+    <string name="title_activity_hider">WhatsApp Hider</string>
+    <string name="cancel">My facebook profile</string>
+    <string name="ok">OK</string>
+    <string name="dialog_title">About</string>
+    <string name="button1_text">Hide Last Seen</string>
+    <string name="button2_text">Show Last Seen</string>
+    <string name="wcheckBox_text">Wifi</string>
+    <string name="mcheckBox_text">Mobile Data</string>
+    <string name="dialog_message">  Developed by: Suhaib Khan\n\nNote:-\nThis app works by 
+        							smartly changing the state of your internet connection. 
+        							So, you can read/write messages when hiding last seen 
+        							and the written messages will be sent once you close WhatsApp.</string>
+    <string name="about_app">Hide your ass from your exes or anyone you wanna
+        					 ignore by hiding your last seen timestamp in WhatsApp.
+        					 Use WhatsApp without letting anyone know that you are online.</string>
+	<string name="check">Please check whatever you\'re using to access internet.</string>
+	<string name="p_apps">Partnerships:</string>
+	<string name="button3_text">CHEATBOX</string>        					 
+
+</resources>
